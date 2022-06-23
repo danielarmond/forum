@@ -3,9 +3,9 @@ package br.com.projeto.forum.controller.form;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 
-import br.com.projeto.forum.controller.repository.CursoRepository;
 import br.com.projeto.forum.modelo.Curso;
 import br.com.projeto.forum.modelo.Topico;
+import br.com.projeto.forum.repository.CursoRepository;
 
 public class TopicoForm {
 
